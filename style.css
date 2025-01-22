@@ -312,6 +312,7 @@ main {
 .secondary-bg {
   background: url(assets/bg.png),
     linear-gradient(0deg, rgba(254, 163, 1, 0.3), rgba(255, 255, 255, 0.3) 100%);
+    margin-bottom: 80px;
 }
 
 .container {
